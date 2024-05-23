@@ -1,2 +1,3 @@
-# software_engineering_homeworks
-sduwh《软件工程》课程作业和设计（仅有报告）
+# sduwh《软件工程》课程作业和设计（仅有报告）
+包括软件工程大作业的需求分析和各种设计文档的参考
+代码烂尾，不发了，建议参考我的另一个作品《Material Blog》
